@@ -15,3 +15,4 @@ use Inertia\Inertia;
 */
 
 Route::inertia('/', 'Home/Homepage')->name('homepage');
+require __DIR__ . '/web/lead/lead.php';
