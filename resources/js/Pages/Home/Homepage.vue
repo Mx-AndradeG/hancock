@@ -81,7 +81,7 @@
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="../../../img/portfolio/IMG_1156.jpg" alt="..." />
+                                <img class="img-fluid" src="/images/IMG_1156.jpg" alt="..." />
                             </a>
                             <div class="portfolio-caption">
                                 <div class="portfolio-caption-heading">Threads</div>
