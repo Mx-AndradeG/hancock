@@ -140,7 +140,7 @@
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="../../../../resources/img/portfolio/IMG_1452.jpg" />
+                                <img class="img-fluid" src="/public/IMG_1452.jpg" />
                             </a>
                             <div class="portfolio-caption">
                                 <div class="portfolio-caption-heading">Southwest</div>
