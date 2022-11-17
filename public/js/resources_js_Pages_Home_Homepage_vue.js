@@ -86,29 +86,22 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! vue */ "./node_modules/vue/dist/vue.esm-bundler.js");
 /* harmony import */ var _resources_img_Hancock_png__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../../../resources/img/Hancock.png */ "./resources/img/Hancock.png");
-/* harmony import */ var _img_portfolio_IMG_1156_jpg__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../resources/img/portfolio/IMG_1156.jpg */ "./resources/img/portfolio/IMG_1156.jpg");
-/* harmony import */ var _resources_img_portfolio_IMG_0529_jpg__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../../../resources/img/portfolio/IMG_0529.jpg */ "./resources/img/portfolio/IMG_0529.jpg");
-/* harmony import */ var _resources_img_portfolio_IMG_1200_jpg__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../../../../resources/img/portfolio/IMG_1200.jpg */ "./resources/img/portfolio/IMG_1200.jpg");
-/* harmony import */ var _resources_img_portfolio_IMG_1452_jpg__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../../../../resources/img/portfolio/IMG_1452.jpg */ "./resources/img/portfolio/IMG_1452.jpg");
-/* harmony import */ var _resources_img_portfolio_IMG_2261_jpg__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../../../../resources/img/portfolio/IMG_2261.jpg */ "./resources/img/portfolio/IMG_2261.jpg");
-/* harmony import */ var _resources_img_about_about1_jpg__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../../../../resources/img/about/about1.jpg */ "./resources/img/about/about1.jpg");
-/* harmony import */ var _resources_img_about_about2_jpg__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ../../../../resources/img/about/about2.jpg */ "./resources/img/about/about2.jpg");
-/* harmony import */ var _resources_img_about_about3_jpg__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ../../../../resources/img/about/about3.jpg */ "./resources/img/about/about3.jpg");
-/* harmony import */ var _resources_img_about_about4_jpg__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ../../../../resources/img/about/about4.jpg */ "./resources/img/about/about4.jpg");
-/* harmony import */ var _resources_img_team_equipo1_jpg__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ../../../../resources/img/team/equipo1.jpg */ "./resources/img/team/equipo1.jpg");
-/* harmony import */ var _resources_img_team_equipo2_jpg__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! ../../../../resources/img/team/equipo2.jpg */ "./resources/img/team/equipo2.jpg");
-/* harmony import */ var _resources_img_team_equipo3_jpg__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! ../../../../resources/img/team/equipo3.jpg */ "./resources/img/team/equipo3.jpg");
-/* harmony import */ var _resources_img_logos_microsoft_svg__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! ../../../../resources/img/logos/microsoft.svg */ "./resources/img/logos/microsoft.svg");
-/* harmony import */ var _resources_img_logos_google_svg__WEBPACK_IMPORTED_MODULE_15__ = __webpack_require__(/*! ../../../../resources/img/logos/google.svg */ "./resources/img/logos/google.svg");
-/* harmony import */ var _resources_img_logos_facebook_svg__WEBPACK_IMPORTED_MODULE_16__ = __webpack_require__(/*! ../../../../resources/img/logos/facebook.svg */ "./resources/img/logos/facebook.svg");
-/* harmony import */ var _resources_img_logos_ibm_svg__WEBPACK_IMPORTED_MODULE_17__ = __webpack_require__(/*! ../../../../resources/img/logos/ibm.svg */ "./resources/img/logos/ibm.svg");
-/* harmony import */ var _resources_img_close_icon_svg__WEBPACK_IMPORTED_MODULE_18__ = __webpack_require__(/*! ../../../../resources/img/close-icon.svg */ "./resources/img/close-icon.svg");
-/* harmony import */ var _resources_img_portfolio_IMG_5422_jpg__WEBPACK_IMPORTED_MODULE_19__ = __webpack_require__(/*! ../../../../resources/img/portfolio/IMG_5422.jpg */ "./resources/img/portfolio/IMG_5422.jpg");
-/* harmony import */ var _resources_img_portfolio_portafolio2_jpg__WEBPACK_IMPORTED_MODULE_20__ = __webpack_require__(/*! ../../../../resources/img/portfolio/portafolio2.jpg */ "./resources/img/portfolio/portafolio2.jpg");
-
-
-
-
+/* harmony import */ var _resources_img_portfolio_IMG_1452_jpg__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../resources/img/portfolio/IMG_1452.jpg */ "./resources/img/portfolio/IMG_1452.jpg");
+/* harmony import */ var _resources_img_portfolio_IMG_2261_jpg__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../../../resources/img/portfolio/IMG_2261.jpg */ "./resources/img/portfolio/IMG_2261.jpg");
+/* harmony import */ var _resources_img_about_about1_jpg__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../../../../resources/img/about/about1.jpg */ "./resources/img/about/about1.jpg");
+/* harmony import */ var _resources_img_about_about2_jpg__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../../../../resources/img/about/about2.jpg */ "./resources/img/about/about2.jpg");
+/* harmony import */ var _resources_img_about_about3_jpg__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../../../../resources/img/about/about3.jpg */ "./resources/img/about/about3.jpg");
+/* harmony import */ var _resources_img_about_about4_jpg__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../../../../resources/img/about/about4.jpg */ "./resources/img/about/about4.jpg");
+/* harmony import */ var _resources_img_team_equipo1_jpg__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ../../../../resources/img/team/equipo1.jpg */ "./resources/img/team/equipo1.jpg");
+/* harmony import */ var _resources_img_team_equipo2_jpg__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ../../../../resources/img/team/equipo2.jpg */ "./resources/img/team/equipo2.jpg");
+/* harmony import */ var _resources_img_team_equipo3_jpg__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ../../../../resources/img/team/equipo3.jpg */ "./resources/img/team/equipo3.jpg");
+/* harmony import */ var _resources_img_logos_microsoft_svg__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ../../../../resources/img/logos/microsoft.svg */ "./resources/img/logos/microsoft.svg");
+/* harmony import */ var _resources_img_logos_google_svg__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! ../../../../resources/img/logos/google.svg */ "./resources/img/logos/google.svg");
+/* harmony import */ var _resources_img_logos_facebook_svg__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! ../../../../resources/img/logos/facebook.svg */ "./resources/img/logos/facebook.svg");
+/* harmony import */ var _resources_img_logos_ibm_svg__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! ../../../../resources/img/logos/ibm.svg */ "./resources/img/logos/ibm.svg");
+/* harmony import */ var _resources_img_close_icon_svg__WEBPACK_IMPORTED_MODULE_15__ = __webpack_require__(/*! ../../../../resources/img/close-icon.svg */ "./resources/img/close-icon.svg");
+/* harmony import */ var _resources_img_portfolio_IMG_5422_jpg__WEBPACK_IMPORTED_MODULE_16__ = __webpack_require__(/*! ../../../../resources/img/portfolio/IMG_5422.jpg */ "./resources/img/portfolio/IMG_5422.jpg");
+/* harmony import */ var _resources_img_portfolio_portafolio2_jpg__WEBPACK_IMPORTED_MODULE_17__ = __webpack_require__(/*! ../../../../resources/img/portfolio/portafolio2.jpg */ "./resources/img/portfolio/portafolio2.jpg");
 
 
 
@@ -137,13 +130,13 @@ var _hoisted_3 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVN
 
 var _hoisted_4 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<section class=\"page-section\" id=\"services\"><div class=\"container\"><div class=\"text-center\"><h2 class=\"section-heading text-uppercase\">Servicios</h2><h3 class=\"section-subheading text-muted\">Expertos en diseño, creación e implementación de espacios de interiores.</h3></div><div class=\"row text-center\"><div class=\"col-md-4\"><span class=\"fa-stack fa-4x\"><i class=\"fas fa-circle fa-stack-2x text-primary\"></i><i class=\"fas fa-cutlery fa-stack-1x fa-inverse\"></i></span><h4 class=\"my-3\">Diseños de cocinas</h4><p class=\"text-muted\">El diseño de la cocina es uno de los aspectos más importantes de nuestra casa, debido a la cantidad de tiempo que pasamos en ella y a las múltiples funciones que este espacio cumple en nuestras vidas. Un buen diseño interior y una distribución inteligente son vitales en todos los espacios</p></div><div class=\"col-md-4\"><span class=\"fa-stack fa-4x\"><i class=\"fas fa-circle fa-stack-2x text-primary\"></i><i class=\"fas fa-bed fa-stack-1x fa-inverse\"></i></span><h4 class=\"my-3\">Diseño de muebles</h4><p class=\"text-muted\">El diseño de mobiliario es una disciplina técnica que requiere muchas habilidades, como el control de los materiales, de los procesos de fabricación, la gestión de los proveedores, cálculos de estabilidad y ergonomía, diseño en 3D, maquetación y producción de un prototipo real</p></div><div class=\"col-md-4\"><span class=\"fa-stack fa-4x\"><i class=\"fas fa-circle fa-stack-2x text-primary\"></i><i class=\"fas fa-home fa-stack-1x fa-inverse\"></i></span><h4 class=\"my-3\">Diseño de interiores</h4><p class=\"text-muted\">El diseño de interiores es el arte que consiste en mejorar el interior de un edificio, por lo tanto, en el pasado se diseñaba el interior de manera instintiva como parte del proceso de producción, siendo su objetivo principal la búsqueda del uso del espacio de manera efectiva y conseguir bienestar.</p></div></div></div></section>", 1);
 
-var _hoisted_5 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<section class=\"page-section bg-light\" id=\"portfolio\"><div class=\"container\"><div class=\"text-center\"><h2 class=\"section-heading text-uppercase\">Portfolio</h2><h3 class=\"section-subheading text-muted\">Algunos de nuestros mejores trabajos.</h3></div><div class=\"row\"><div class=\"col-lg-4 col-sm-6 mb-4\"><!-- Portfolio item 1--><div class=\"portfolio-item\"><a class=\"portfolio-link\" data-bs-toggle=\"modal\" href=\"#portfolioModal1\"><div class=\"portfolio-hover\"><div class=\"portfolio-hover-content\"><i class=\"fas fa-plus fa-3x\"></i></div></div><img class=\"img-fluid\" src=\"" + _img_portfolio_IMG_1156_jpg__WEBPACK_IMPORTED_MODULE_2__["default"] + "\" alt=\"...\"></a><div class=\"portfolio-caption\"><div class=\"portfolio-caption-heading\">Threads</div><div class=\"portfolio-caption-subheading text-muted\">Illustration</div></div></div></div><div class=\"col-lg-4 col-sm-6 mb-4\"><div class=\"portfolio-item\"><a class=\"portfolio-link\" data-bs-toggle=\"modal\" href=\"#portfolioModal2\"><div class=\"portfolio-hover\"><div class=\"portfolio-hover-content\"><i class=\"fas fa-plus fa-3x\"></i></div></div><img class=\"img-fluid\" src=\"" + _resources_img_portfolio_IMG_0529_jpg__WEBPACK_IMPORTED_MODULE_3__["default"] + "\" alt=\"...\"></a><div class=\"portfolio-caption\"><div class=\"portfolio-caption-heading\">Explore</div><div class=\"portfolio-caption-subheading text-muted\">Graphic Design</div></div></div></div><div class=\"col-lg-4 col-sm-6 mb-4\"><!-- Portfolio item 3--><div class=\"portfolio-item\"><a class=\"portfolio-link\" data-bs-toggle=\"modal\" href=\"#portfolioModal3\"><div class=\"portfolio-hover\"><div class=\"portfolio-hover-content\"><i class=\"fas fa-plus fa-3x\"></i></div></div><img class=\"img-fluid\" src=\"" + _img_portfolio_IMG_1156_jpg__WEBPACK_IMPORTED_MODULE_2__["default"] + "\" alt=\"...\"></a><div class=\"portfolio-caption\"><div class=\"portfolio-caption-heading\">Finish</div><div class=\"portfolio-caption-subheading text-muted\">Identity</div></div></div></div><div class=\"col-lg-4 col-sm-6 mb-4 mb-lg-0\"><!-- Portfolio item 4--><div class=\"portfolio-item\"><a class=\"portfolio-link\" data-bs-toggle=\"modal\" href=\"#portfolioModal4\"><div class=\"portfolio-hover\"><div class=\"portfolio-hover-content\"><i class=\"fas fa-plus fa-3x\"></i></div></div><img class=\"img-fluid\" src=\"" + _resources_img_portfolio_IMG_1200_jpg__WEBPACK_IMPORTED_MODULE_4__["default"] + "\" alt=\"...\"></a><div class=\"portfolio-caption\"><div class=\"portfolio-caption-heading\">Lines</div><div class=\"portfolio-caption-subheading text-muted\">Branding</div></div></div></div><div class=\"col-lg-4 col-sm-6 mb-4 mb-sm-0\"><!-- Portfolio item 5--><div class=\"portfolio-item\"><a class=\"portfolio-link\" data-bs-toggle=\"modal\" href=\"#portfolioModal5\"><div class=\"portfolio-hover\"><div class=\"portfolio-hover-content\"><i class=\"fas fa-plus fa-3x\"></i></div></div><img class=\"img-fluid\" src=\"" + _resources_img_portfolio_IMG_1452_jpg__WEBPACK_IMPORTED_MODULE_5__["default"] + "\"></a><div class=\"portfolio-caption\"><div class=\"portfolio-caption-heading\">Southwest</div><div class=\"portfolio-caption-subheading text-muted\">Website Design</div></div></div></div><div class=\"col-lg-4 col-sm-6\"><!-- Portfolio item 6--><div class=\"portfolio-item\"><a class=\"portfolio-link\" data-bs-toggle=\"modal\" href=\"#portfolioModal6\"><div class=\"portfolio-hover\"><div class=\"portfolio-hover-content\"><i class=\"fas fa-plus fa-3x\"></i></div></div><img class=\"img-fluid\" src=\"" + _resources_img_portfolio_IMG_2261_jpg__WEBPACK_IMPORTED_MODULE_6__["default"] + "\" alt=\"...\"></a><div class=\"portfolio-caption\"><div class=\"portfolio-caption-heading\">Window</div><div class=\"portfolio-caption-subheading text-muted\">Photography</div></div></div></div></div></div></section>", 1);
+var _hoisted_5 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<section class=\"page-section bg-light\" id=\"portfolio\"><div class=\"container\"><div class=\"text-center\"><h2 class=\"section-heading text-uppercase\">Portfolio</h2><h3 class=\"section-subheading text-muted\">Algunos de nuestros mejores trabajos.</h3></div><div class=\"row\"><div class=\"col-lg-4 col-sm-6 mb-4\"><!-- Portfolio item 1--><div class=\"portfolio-item\"><a class=\"portfolio-link\" data-bs-toggle=\"modal\" href=\"#portfolioModal1\"><div class=\"portfolio-hover\"><div class=\"portfolio-hover-content\"><i class=\"fas fa-plus fa-3x\"></i></div></div><img class=\"img-fluid\" src=\"/images/IMG_1156.jpg\" alt=\"...\"></a><div class=\"portfolio-caption\"><div class=\"portfolio-caption-heading\">Threads</div><div class=\"portfolio-caption-subheading text-muted\">Illustration</div></div></div></div><div class=\"col-lg-4 col-sm-6 mb-4\"><div class=\"portfolio-item\"><a class=\"portfolio-link\" data-bs-toggle=\"modal\" href=\"#portfolioModal2\"><div class=\"portfolio-hover\"><div class=\"portfolio-hover-content\"><i class=\"fas fa-plus fa-3x\"></i></div></div><img class=\"img-fluid\" src=\"/images/IMG_0529.jpg\" alt=\"...\"></a><div class=\"portfolio-caption\"><div class=\"portfolio-caption-heading\">Explore</div><div class=\"portfolio-caption-subheading text-muted\">Graphic Design</div></div></div></div><div class=\"col-lg-4 col-sm-6 mb-4\"><!-- Portfolio item 3--><div class=\"portfolio-item\"><a class=\"portfolio-link\" data-bs-toggle=\"modal\" href=\"#portfolioModal3\"><div class=\"portfolio-hover\"><div class=\"portfolio-hover-content\"><i class=\"fas fa-plus fa-3x\"></i></div></div><img class=\"img-fluid\" src=\"/images/IMG_1156.jpg\" alt=\"...\"></a><div class=\"portfolio-caption\"><div class=\"portfolio-caption-heading\">Finish</div><div class=\"portfolio-caption-subheading text-muted\">Identity</div></div></div></div><div class=\"col-lg-4 col-sm-6 mb-4 mb-lg-0\"><!-- Portfolio item 4--><div class=\"portfolio-item\"><a class=\"portfolio-link\" data-bs-toggle=\"modal\" href=\"#portfolioModal4\"><div class=\"portfolio-hover\"><div class=\"portfolio-hover-content\"><i class=\"fas fa-plus fa-3x\"></i></div></div><img class=\"img-fluid\" src=\"/images/IMG_1200.jpg\" alt=\"...\"></a><div class=\"portfolio-caption\"><div class=\"portfolio-caption-heading\">Lines</div><div class=\"portfolio-caption-subheading text-muted\">Branding</div></div></div></div><div class=\"col-lg-4 col-sm-6 mb-4 mb-sm-0\"><!-- Portfolio item 5--><div class=\"portfolio-item\"><a class=\"portfolio-link\" data-bs-toggle=\"modal\" href=\"#portfolioModal5\"><div class=\"portfolio-hover\"><div class=\"portfolio-hover-content\"><i class=\"fas fa-plus fa-3x\"></i></div></div><img class=\"img-fluid\" src=\"" + _resources_img_portfolio_IMG_1452_jpg__WEBPACK_IMPORTED_MODULE_2__["default"] + "\"></a><div class=\"portfolio-caption\"><div class=\"portfolio-caption-heading\">Southwest</div><div class=\"portfolio-caption-subheading text-muted\">Website Design</div></div></div></div><div class=\"col-lg-4 col-sm-6\"><!-- Portfolio item 6--><div class=\"portfolio-item\"><a class=\"portfolio-link\" data-bs-toggle=\"modal\" href=\"#portfolioModal6\"><div class=\"portfolio-hover\"><div class=\"portfolio-hover-content\"><i class=\"fas fa-plus fa-3x\"></i></div></div><img class=\"img-fluid\" src=\"" + _resources_img_portfolio_IMG_2261_jpg__WEBPACK_IMPORTED_MODULE_3__["default"] + "\" alt=\"...\"></a><div class=\"portfolio-caption\"><div class=\"portfolio-caption-heading\">Window</div><div class=\"portfolio-caption-subheading text-muted\">Photography</div></div></div></div></div></div></section>", 1);
 
-var _hoisted_6 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<section class=\"page-section\" id=\"about\"><div class=\"container\"><div class=\"text-center\"><h2 class=\"section-heading text-uppercase\">About</h2><h3 class=\"section-subheading text-muted\">Lorem ipsum dolor sit amet consectetur.</h3></div><ul class=\"timeline\"><li><div class=\"timeline-image\"><img class=\"rounded-circle img-fluid\" src=\"" + _resources_img_about_about1_jpg__WEBPACK_IMPORTED_MODULE_7__["default"] + "\" alt=\"...\"></div><div class=\"timeline-panel\"><div class=\"timeline-heading\"><h4>2009-2011</h4><h4 class=\"subheading\">Our Humble Beginnings</h4></div><div class=\"timeline-body\"><p class=\"text-muted\">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p></div></div></li><li class=\"timeline-inverted\"><div class=\"timeline-image\"><img class=\"rounded-circle img-fluid\" src=\"" + _resources_img_about_about2_jpg__WEBPACK_IMPORTED_MODULE_8__["default"] + "\" alt=\"...\"></div><div class=\"timeline-panel\"><div class=\"timeline-heading\"><h4>March 2011</h4><h4 class=\"subheading\">An Agency is Born</h4></div><div class=\"timeline-body\"><p class=\"text-muted\">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p></div></div></li><li><div class=\"timeline-image\"><img class=\"rounded-circle img-fluid\" src=\"" + _resources_img_about_about3_jpg__WEBPACK_IMPORTED_MODULE_9__["default"] + "\" alt=\"...\"></div><div class=\"timeline-panel\"><div class=\"timeline-heading\"><h4>December 2015</h4><h4 class=\"subheading\">Transition to Full Service</h4></div><div class=\"timeline-body\"><p class=\"text-muted\">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p></div></div></li><li class=\"timeline-inverted\"><div class=\"timeline-image\"><img class=\"rounded-circle img-fluid\" src=\"" + _resources_img_about_about4_jpg__WEBPACK_IMPORTED_MODULE_10__["default"] + "\" alt=\"...\"></div><div class=\"timeline-panel\"><div class=\"timeline-heading\"><h4>July 2020</h4><h4 class=\"subheading\">Phase Two Expansion</h4></div><div class=\"timeline-body\"><p class=\"text-muted\">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p></div></div></li><li class=\"timeline-inverted\"><div class=\"timeline-image\"><h4> Be Part <br> Of Our <br> Story! </h4></div></li></ul></div></section>", 1);
+var _hoisted_6 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<section class=\"page-section\" id=\"about\"><div class=\"container\"><div class=\"text-center\"><h2 class=\"section-heading text-uppercase\">About</h2><h3 class=\"section-subheading text-muted\">Lorem ipsum dolor sit amet consectetur.</h3></div><ul class=\"timeline\"><li><div class=\"timeline-image\"><img class=\"rounded-circle img-fluid\" src=\"" + _resources_img_about_about1_jpg__WEBPACK_IMPORTED_MODULE_4__["default"] + "\" alt=\"...\"></div><div class=\"timeline-panel\"><div class=\"timeline-heading\"><h4>2009-2011</h4><h4 class=\"subheading\">Our Humble Beginnings</h4></div><div class=\"timeline-body\"><p class=\"text-muted\">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p></div></div></li><li class=\"timeline-inverted\"><div class=\"timeline-image\"><img class=\"rounded-circle img-fluid\" src=\"" + _resources_img_about_about2_jpg__WEBPACK_IMPORTED_MODULE_5__["default"] + "\" alt=\"...\"></div><div class=\"timeline-panel\"><div class=\"timeline-heading\"><h4>March 2011</h4><h4 class=\"subheading\">An Agency is Born</h4></div><div class=\"timeline-body\"><p class=\"text-muted\">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p></div></div></li><li><div class=\"timeline-image\"><img class=\"rounded-circle img-fluid\" src=\"" + _resources_img_about_about3_jpg__WEBPACK_IMPORTED_MODULE_6__["default"] + "\" alt=\"...\"></div><div class=\"timeline-panel\"><div class=\"timeline-heading\"><h4>December 2015</h4><h4 class=\"subheading\">Transition to Full Service</h4></div><div class=\"timeline-body\"><p class=\"text-muted\">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p></div></div></li><li class=\"timeline-inverted\"><div class=\"timeline-image\"><img class=\"rounded-circle img-fluid\" src=\"" + _resources_img_about_about4_jpg__WEBPACK_IMPORTED_MODULE_7__["default"] + "\" alt=\"...\"></div><div class=\"timeline-panel\"><div class=\"timeline-heading\"><h4>July 2020</h4><h4 class=\"subheading\">Phase Two Expansion</h4></div><div class=\"timeline-body\"><p class=\"text-muted\">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p></div></div></li><li class=\"timeline-inverted\"><div class=\"timeline-image\"><h4> Be Part <br> Of Our <br> Story! </h4></div></li></ul></div></section>", 1);
 
-var _hoisted_7 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<section class=\"page-section bg-light\" id=\"team\"><div class=\"container\"><div class=\"text-center\"><h2 class=\"section-heading text-uppercase\">Our Amazing Team</h2><h3 class=\"section-subheading text-muted\">Lorem ipsum dolor sit amet consectetur.</h3></div><div class=\"row\"><div class=\"col-lg-4\"><div class=\"team-member\"><img class=\"mx-auto rounded-circle\" src=\"" + _resources_img_team_equipo1_jpg__WEBPACK_IMPORTED_MODULE_11__["default"] + "\" alt=\"...\"><h4>Parveen Anand</h4><p class=\"text-muted\">Lead Designer</p><a class=\"btn btn-dark btn-social mx-2\" href=\"#!\" aria-label=\"Parveen Anand Twitter Profile\"><i class=\"fab fa-twitter\"></i></a><a class=\"btn btn-dark btn-social mx-2\" href=\"#!\" aria-label=\"Parveen Anand Facebook Profile\"><i class=\"fab fa-facebook-f\"></i></a><a class=\"btn btn-dark btn-social mx-2\" href=\"#!\" aria-label=\"Parveen Anand LinkedIn Profile\"><i class=\"fab fa-linkedin-in\"></i></a></div></div><div class=\"col-lg-4\"><div class=\"team-member\"><img class=\"mx-auto rounded-circle\" src=\"" + _resources_img_team_equipo2_jpg__WEBPACK_IMPORTED_MODULE_12__["default"] + "\" alt=\"...\"><h4>Diana Petersen</h4><p class=\"text-muted\">Lead Marketer</p><a class=\"btn btn-dark btn-social mx-2\" href=\"#!\" aria-label=\"Diana Petersen Twitter Profile\"><i class=\"fab fa-twitter\"></i></a><a class=\"btn btn-dark btn-social mx-2\" href=\"#!\" aria-label=\"Diana Petersen Facebook Profile\"><i class=\"fab fa-facebook-f\"></i></a><a class=\"btn btn-dark btn-social mx-2\" href=\"#!\" aria-label=\"Diana Petersen LinkedIn Profile\"><i class=\"fab fa-linkedin-in\"></i></a></div></div><div class=\"col-lg-4\"><div class=\"team-member\"><img class=\"mx-auto rounded-circle\" src=\"" + _resources_img_team_equipo3_jpg__WEBPACK_IMPORTED_MODULE_13__["default"] + "\" alt=\"...\"><h4>Larry Parker</h4><p class=\"text-muted\">Lead Developer</p><a class=\"btn btn-dark btn-social mx-2\" href=\"#!\" aria-label=\"Larry Parker Twitter Profile\"><i class=\"fab fa-twitter\"></i></a><a class=\"btn btn-dark btn-social mx-2\" href=\"#!\" aria-label=\"Larry Parker Facebook Profile\"><i class=\"fab fa-facebook-f\"></i></a><a class=\"btn btn-dark btn-social mx-2\" href=\"#!\" aria-label=\"Larry Parker LinkedIn Profile\"><i class=\"fab fa-linkedin-in\"></i></a></div></div></div><div class=\"row\"><div class=\"col-lg-8 mx-auto text-center\"><p class=\"large text-muted\">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p></div></div></div></section>", 1);
+var _hoisted_7 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<section class=\"page-section bg-light\" id=\"team\"><div class=\"container\"><div class=\"text-center\"><h2 class=\"section-heading text-uppercase\">Our Amazing Team</h2><h3 class=\"section-subheading text-muted\">Lorem ipsum dolor sit amet consectetur.</h3></div><div class=\"row\"><div class=\"col-lg-4\"><div class=\"team-member\"><img class=\"mx-auto rounded-circle\" src=\"" + _resources_img_team_equipo1_jpg__WEBPACK_IMPORTED_MODULE_8__["default"] + "\" alt=\"...\"><h4>Parveen Anand</h4><p class=\"text-muted\">Lead Designer</p><a class=\"btn btn-dark btn-social mx-2\" href=\"#!\" aria-label=\"Parveen Anand Twitter Profile\"><i class=\"fab fa-twitter\"></i></a><a class=\"btn btn-dark btn-social mx-2\" href=\"#!\" aria-label=\"Parveen Anand Facebook Profile\"><i class=\"fab fa-facebook-f\"></i></a><a class=\"btn btn-dark btn-social mx-2\" href=\"#!\" aria-label=\"Parveen Anand LinkedIn Profile\"><i class=\"fab fa-linkedin-in\"></i></a></div></div><div class=\"col-lg-4\"><div class=\"team-member\"><img class=\"mx-auto rounded-circle\" src=\"" + _resources_img_team_equipo2_jpg__WEBPACK_IMPORTED_MODULE_9__["default"] + "\" alt=\"...\"><h4>Diana Petersen</h4><p class=\"text-muted\">Lead Marketer</p><a class=\"btn btn-dark btn-social mx-2\" href=\"#!\" aria-label=\"Diana Petersen Twitter Profile\"><i class=\"fab fa-twitter\"></i></a><a class=\"btn btn-dark btn-social mx-2\" href=\"#!\" aria-label=\"Diana Petersen Facebook Profile\"><i class=\"fab fa-facebook-f\"></i></a><a class=\"btn btn-dark btn-social mx-2\" href=\"#!\" aria-label=\"Diana Petersen LinkedIn Profile\"><i class=\"fab fa-linkedin-in\"></i></a></div></div><div class=\"col-lg-4\"><div class=\"team-member\"><img class=\"mx-auto rounded-circle\" src=\"" + _resources_img_team_equipo3_jpg__WEBPACK_IMPORTED_MODULE_10__["default"] + "\" alt=\"...\"><h4>Larry Parker</h4><p class=\"text-muted\">Lead Developer</p><a class=\"btn btn-dark btn-social mx-2\" href=\"#!\" aria-label=\"Larry Parker Twitter Profile\"><i class=\"fab fa-twitter\"></i></a><a class=\"btn btn-dark btn-social mx-2\" href=\"#!\" aria-label=\"Larry Parker Facebook Profile\"><i class=\"fab fa-facebook-f\"></i></a><a class=\"btn btn-dark btn-social mx-2\" href=\"#!\" aria-label=\"Larry Parker LinkedIn Profile\"><i class=\"fab fa-linkedin-in\"></i></a></div></div></div><div class=\"row\"><div class=\"col-lg-8 mx-auto text-center\"><p class=\"large text-muted\">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p></div></div></div></section>", 1);
 
-var _hoisted_8 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"py-5\"><div class=\"container\"><div class=\"row align-items-center\"><div class=\"col-md-3 col-sm-6 my-3\"><a href=\"#!\"><img class=\"img-fluid img-brand d-block mx-auto\" src=\"" + _resources_img_logos_microsoft_svg__WEBPACK_IMPORTED_MODULE_14__["default"] + "\" alt=\"...\" aria-label=\"Microsoft Logo\"></a></div><div class=\"col-md-3 col-sm-6 my-3\"><a href=\"#!\"><img class=\"img-fluid img-brand d-block mx-auto\" src=\"" + _resources_img_logos_google_svg__WEBPACK_IMPORTED_MODULE_15__["default"] + "\" alt=\"...\" aria-label=\"Google Logo\"></a></div><div class=\"col-md-3 col-sm-6 my-3\"><a href=\"#!\"><img class=\"img-fluid img-brand d-block mx-auto\" src=\"" + _resources_img_logos_facebook_svg__WEBPACK_IMPORTED_MODULE_16__["default"] + "\" alt=\"...\" aria-label=\"Facebook Logo\"></a></div><div class=\"col-md-3 col-sm-6 my-3\"><a href=\"#!\"><img class=\"img-fluid img-brand d-block mx-auto\" src=\"" + _resources_img_logos_ibm_svg__WEBPACK_IMPORTED_MODULE_17__["default"] + "\" alt=\"...\" aria-label=\"IBM Logo\"></a></div></div></div></div>", 1);
+var _hoisted_8 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"py-5\"><div class=\"container\"><div class=\"row align-items-center\"><div class=\"col-md-3 col-sm-6 my-3\"><a href=\"#!\"><img class=\"img-fluid img-brand d-block mx-auto\" src=\"" + _resources_img_logos_microsoft_svg__WEBPACK_IMPORTED_MODULE_11__["default"] + "\" alt=\"...\" aria-label=\"Microsoft Logo\"></a></div><div class=\"col-md-3 col-sm-6 my-3\"><a href=\"#!\"><img class=\"img-fluid img-brand d-block mx-auto\" src=\"" + _resources_img_logos_google_svg__WEBPACK_IMPORTED_MODULE_12__["default"] + "\" alt=\"...\" aria-label=\"Google Logo\"></a></div><div class=\"col-md-3 col-sm-6 my-3\"><a href=\"#!\"><img class=\"img-fluid img-brand d-block mx-auto\" src=\"" + _resources_img_logos_facebook_svg__WEBPACK_IMPORTED_MODULE_13__["default"] + "\" alt=\"...\" aria-label=\"Facebook Logo\"></a></div><div class=\"col-md-3 col-sm-6 my-3\"><a href=\"#!\"><img class=\"img-fluid img-brand d-block mx-auto\" src=\"" + _resources_img_logos_ibm_svg__WEBPACK_IMPORTED_MODULE_14__["default"] + "\" alt=\"...\" aria-label=\"IBM Logo\"></a></div></div></div></div>", 1);
 
 var _hoisted_9 = {
   "class": "page-section",
@@ -233,7 +226,7 @@ var _hoisted_23 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElement
   "class": "close-modal",
   "data-bs-dismiss": "modal"
 }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
-  src: _resources_img_close_icon_svg__WEBPACK_IMPORTED_MODULE_18__["default"],
+  src: _resources_img_close_icon_svg__WEBPACK_IMPORTED_MODULE_15__["default"],
   alt: "Close modal"
 })]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
   "class": "container"
@@ -249,7 +242,7 @@ var _hoisted_23 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElement
   "class": "item-intro text-muted"
 }, "Lorem ipsum dolor sit amet consectetur."), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
   "class": "img-fluid d-block mx-auto",
-  src: _resources_img_portfolio_IMG_5422_jpg__WEBPACK_IMPORTED_MODULE_19__["default"],
+  src: _resources_img_portfolio_IMG_5422_jpg__WEBPACK_IMPORTED_MODULE_16__["default"],
   alt: "..."
 }), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", null, "Us!"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("ul", {
   "class": "list-inline"
@@ -277,7 +270,7 @@ var _hoisted_24 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElement
   "class": "close-modal",
   "data-bs-dismiss": "modal"
 }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
-  src: _resources_img_close_icon_svg__WEBPACK_IMPORTED_MODULE_18__["default"],
+  src: _resources_img_close_icon_svg__WEBPACK_IMPORTED_MODULE_15__["default"],
   alt: "Close modal"
 })]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
   "class": "container"
@@ -293,7 +286,7 @@ var _hoisted_24 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElement
   "class": "item-intro text-muted"
 }, "Lorem ipsum dolor sit amet consectetur."), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
   "class": "img-fluid d-block mx-auto",
-  src: _resources_img_portfolio_portafolio2_jpg__WEBPACK_IMPORTED_MODULE_20__["default"],
+  src: _resources_img_portfolio_portafolio2_jpg__WEBPACK_IMPORTED_MODULE_17__["default"],
   alt: "..."
 }), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", null, "descripcion"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("ul", {
   "class": "list-inline"
@@ -321,7 +314,7 @@ var _hoisted_25 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElement
   "class": "close-modal",
   "data-bs-dismiss": "modal"
 }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
-  src: _resources_img_close_icon_svg__WEBPACK_IMPORTED_MODULE_18__["default"],
+  src: _resources_img_close_icon_svg__WEBPACK_IMPORTED_MODULE_15__["default"],
   alt: "Close modal"
 })]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
   "class": "container"
@@ -337,7 +330,7 @@ var _hoisted_25 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElement
   "class": "item-intro text-muted"
 }, "Lorem ipsum dolor sit amet consectetur."), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
   "class": "img-fluid d-block mx-auto",
-  src: _img_portfolio_IMG_1156_jpg__WEBPACK_IMPORTED_MODULE_2__["default"],
+  src: "/images/IMG_1156.jpg",
   alt: "..."
 }), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", null, "Descripcion "), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("ul", {
   "class": "list-inline"
@@ -365,7 +358,7 @@ var _hoisted_26 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElement
   "class": "close-modal",
   "data-bs-dismiss": "modal"
 }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
-  src: _resources_img_close_icon_svg__WEBPACK_IMPORTED_MODULE_18__["default"],
+  src: _resources_img_close_icon_svg__WEBPACK_IMPORTED_MODULE_15__["default"],
   alt: "Close modal"
 })]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
   "class": "container"
@@ -381,7 +374,7 @@ var _hoisted_26 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElement
   "class": "item-intro text-muted"
 }, "Lorem ipsum dolor sit amet consectetur."), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
   "class": "img-fluid d-block mx-auto",
-  src: _resources_img_portfolio_IMG_1200_jpg__WEBPACK_IMPORTED_MODULE_4__["default"],
+  src: "/images/IMG_1200.jpg",
   alt: "..."
 }), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", null, "Descripcion "), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("ul", {
   "class": "list-inline"
@@ -409,7 +402,7 @@ var _hoisted_27 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElement
   "class": "close-modal",
   "data-bs-dismiss": "modal"
 }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
-  src: _resources_img_close_icon_svg__WEBPACK_IMPORTED_MODULE_18__["default"],
+  src: _resources_img_close_icon_svg__WEBPACK_IMPORTED_MODULE_15__["default"],
   alt: "Close modal"
 })]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
   "class": "container"
@@ -425,7 +418,7 @@ var _hoisted_27 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElement
   "class": "item-intro text-muted"
 }, "Lorem ipsum dolor sit amet consectetur."), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
   "class": "img-fluid d-block mx-auto",
-  src: _resources_img_portfolio_IMG_1452_jpg__WEBPACK_IMPORTED_MODULE_5__["default"],
+  src: "/public/IMG_1452.jpg",
   alt: "..."
 }), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", null, "Descripcion"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("ul", {
   "class": "list-inline"
@@ -453,7 +446,7 @@ var _hoisted_28 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElement
   "class": "close-modal",
   "data-bs-dismiss": "modal"
 }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
-  src: _resources_img_close_icon_svg__WEBPACK_IMPORTED_MODULE_18__["default"],
+  src: _resources_img_close_icon_svg__WEBPACK_IMPORTED_MODULE_15__["default"],
   alt: "Close modal"
 })]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
   "class": "container"
@@ -469,7 +462,7 @@ var _hoisted_28 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElement
   "class": "item-intro text-muted"
 }, "Lorem ipsum dolor sit amet consectetur."), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
   "class": "img-fluid d-block mx-auto",
-  src: _resources_img_portfolio_IMG_2261_jpg__WEBPACK_IMPORTED_MODULE_6__["default"],
+  src: _resources_img_portfolio_IMG_2261_jpg__WEBPACK_IMPORTED_MODULE_3__["default"],
   alt: "..."
 }), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", null, " Descripcion"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("ul", {
   "class": "list-inline"
@@ -688,48 +681,6 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("/images/microsoft.svg?d36d0304850e2bfa1b97e476505504b0");
-
-/***/ }),
-
-/***/ "./resources/img/portfolio/IMG_0529.jpg":
-/*!**********************************************!*\
-  !*** ./resources/img/portfolio/IMG_0529.jpg ***!
-  \**********************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-__webpack_require__.r(__webpack_exports__);
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("/images/IMG_0529.jpg?16dbba1677dee9e3321760967852ab9e");
-
-/***/ }),
-
-/***/ "./resources/img/portfolio/IMG_1156.jpg":
-/*!**********************************************!*\
-  !*** ./resources/img/portfolio/IMG_1156.jpg ***!
-  \**********************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-__webpack_require__.r(__webpack_exports__);
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("/images/IMG_1156.jpg?ac8aa22b3681745cf6b3b2e6a548e6cf");
-
-/***/ }),
-
-/***/ "./resources/img/portfolio/IMG_1200.jpg":
-/*!**********************************************!*\
-  !*** ./resources/img/portfolio/IMG_1200.jpg ***!
-  \**********************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-__webpack_require__.r(__webpack_exports__);
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("/images/IMG_1200.jpg?c4801b4b5221074ad1e00e0d6d00c06c");
 
 /***/ }),
 

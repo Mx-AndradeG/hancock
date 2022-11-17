@@ -95,7 +95,7 @@
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="../../../../resources/img/portfolio/IMG_0529.jpg" alt="..." />
+                                <img class="img-fluid" src="/images/IMG_0529.jpg" alt="..." />
                             </a>
                             <div class="portfolio-caption">
                                 <div class="portfolio-caption-heading">Explore</div>
@@ -110,7 +110,7 @@
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="../../../../resources/img/portfolio/IMG_1156.jpg" alt="..." />
+                                <img class="img-fluid" src="/images/IMG_1156.jpg" alt="..." />
                             </a>
                             <div class="portfolio-caption">
                                 <div class="portfolio-caption-heading">Finish</div>
@@ -125,7 +125,7 @@
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="../../../../resources/img/portfolio/IMG_1200.jpg" alt="..." />
+                                <img class="img-fluid" src="/images/IMG_1200.jpg" alt="..." />
                             </a>
                             <div class="portfolio-caption">
                                 <div class="portfolio-caption-heading">Lines</div>
@@ -472,7 +472,7 @@
                                     <!-- Project details-->
                                     <h2 class="text-uppercase">Project Name</h2>
                                     <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                                    <img class="img-fluid d-block mx-auto" src="../../../../resources/img/portfolio/IMG_1156.jpg" alt="..." />
+                                    <img class="img-fluid d-block mx-auto" src="/images/IMG_1156.jpg" alt="..." />
                                     <p>Descripcion </p>
                                     <ul class="list-inline">
                                         <li>
@@ -507,7 +507,7 @@
                                     <!-- Project details-->
                                     <h2 class="text-uppercase">Project Name</h2>
                                     <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                                    <img class="img-fluid d-block mx-auto" src="../../../../resources/img/portfolio/IMG_1200.jpg" alt="..." />
+                                    <img class="img-fluid d-block mx-auto" src="/images/IMG_1200.jpg" alt="..." />
                                     <p>Descripcion </p>
                                     <ul class="list-inline">
                                         <li>
@@ -542,7 +542,7 @@
                                     <!-- Project details-->
                                     <h2 class="text-uppercase">Project Name</h2>
                                     <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                                    <img class="img-fluid d-block mx-auto" src="../../../../resources/img/portfolio/IMG_1452.jpg" alt="..." />
+                                    <img class="img-fluid d-block mx-auto" src="/public/IMG_1452.jpg" alt="..." />
                                     <p>Descripcion</p>
                                     <ul class="list-inline">
                                         <li>
