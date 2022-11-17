@@ -471,13 +471,13 @@
                                 <div class="modal-body">
                                     <!-- Project details-->
                                     <h2 class="text-uppercase">Project Name</h2>
-                                    <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                                    <p class="item-intro text-muted">Lsdfjosdfjosdfjopsdfjopsfd.</p>
                                     <img class="img-fluid d-block mx-auto" src="/images/IMG_1156.jpg" alt="..." />
                                     <p>Descripcion </p>
                                     <ul class="list-inline">
                                         <li>
                                             <strong>Client:</strong>
-                                            Finish
+                                            asfdasdffsdfsdfasfasf
                                         </li>
                                         <li>
                                             <strong>Category:</strong>
