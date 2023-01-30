@@ -70,7 +70,7 @@
         <section class="page-section bg-light" id="portfolio">
             <div class="container">
                 <div class="text-center">
-                    <h2 class="section-heading text-uppercase">Portfolio</h2>
+                    <h2 class="section-heading text-uppercase">Portafolio</h2>
                     <h3 class="section-subheading text-muted">Algunos de nuestros mejores trabajos.</h3>
                 </div>
                 <div class="row">
@@ -84,8 +84,8 @@
                                 <img class="img-fluid" src="/images/IMG_1156.jpg" alt="..." />
                             </a>
                             <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Threads</div>
-                                <div class="portfolio-caption-subheading text-muted">Illustration</div>
+                                <div class="portfolio-caption-heading">Cocinas modernas</div>
+                                <div class="portfolio-caption-subheading text-muted">Diseños para cocinas</div>
                             </div>
                         </div>
                     </div>
@@ -98,8 +98,8 @@
                                 <img class="img-fluid" src="/images/IMG_0529.jpg" alt="..." />
                             </a>
                             <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Explore</div>
-                                <div class="portfolio-caption-subheading text-muted">Graphic Design</div>
+                                <div class="portfolio-caption-heading">Espacios de entretenimiento</div>
+                                <div class="portfolio-caption-subheading text-muted">Diseño de areas recreativas</div>
                             </div>
                         </div>
                     </div>
@@ -110,11 +110,11 @@
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="/images/IMG_1156.jpg" alt="..." />
+                                <img class="img-fluid" src="/images/cama.jpg" alt="..." />
                             </a>
                             <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Finish</div>
-                                <div class="portfolio-caption-subheading text-muted">Identity</div>
+                                <div class="portfolio-caption-heading">Recamaras</div>
+                                <div class="portfolio-caption-subheading text-muted">Diseño de interiores</div>
                             </div>
                         </div>
                     </div>
@@ -128,8 +128,8 @@
                                 <img class="img-fluid" src="/images/IMG_1200.jpg" alt="..." />
                             </a>
                             <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Lines</div>
-                                <div class="portfolio-caption-subheading text-muted">Branding</div>
+                                <div class="portfolio-caption-heading">Tejados</div>
+                                <div class="portfolio-caption-subheading text-muted">Al aire libre</div>
                             </div>
                         </div>
                     </div>
@@ -140,11 +140,11 @@
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="/public/IMG_1452.jpg" />
+                                <img class="img-fluid" src="/images/IMG_1452.jpg" alt="..." />
                             </a>
                             <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Southwest</div>
-                                <div class="portfolio-caption-subheading text-muted">Website Design</div>
+                                <div class="portfolio-caption-heading">Cocinas con islas</div>
+                                <div class="portfolio-caption-subheading text-muted">Diseño para cocinas</div>
                             </div>
                         </div>
                     </div>
@@ -158,8 +158,8 @@
                                 <img class="img-fluid" src="../../../../resources/img/portfolio/IMG_2261.jpg" alt="..." />
                             </a>
                             <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Window</div>
-                                <div class="portfolio-caption-subheading text-muted">Photography</div>
+                                <div class="portfolio-caption-heading">Dormitorios compartidos</div>
+                                <div class="portfolio-caption-subheading text-muted">Diseño de interiores</div>
                             </div>
                         </div>
                     </div>
@@ -378,13 +378,8 @@
                 <div class="row align-items-center">
                     <div class="col-lg-4 text-lg-start">Copyright &copy; Hancock 2022</div>
                     <div class="col-lg-4 my-3 my-lg-0">
-                        <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Twitter"><i class="fab fa-twitter"></i></a>
                         <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Facebook"><i class="fab fa-facebook-f"></i></a>
-                        <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="LinkedIn"><i class="fab fa-linkedin-in"></i></a>
-                    </div>
-                    <div class="col-lg-4 text-lg-end">
-                        <a class="link-dark text-decoration-none me-3" href="#!">Privacy Policy</a>
-                        <a class="link-dark text-decoration-none" href="#!">Terms of Use</a>
+                        <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="LinkedIn"><i class="fa-brands fa-instagram"></i></a>
                     </div>
                 </div>
             </div>
@@ -400,23 +395,21 @@
                             <div class="col-lg-8">
                                 <div class="modal-body">
                                     <!-- Project details-->
-                                    <h2 class="text-uppercase">Project Name</h2>
-                                    <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                                    <img class="img-fluid d-block mx-auto" src="../../../../resources/img/portfolio/IMG_5422.jpg" alt="..." />
-                                    <p>Us!</p>
+                                    <h2 class="text-uppercase">Cocinas modernas</h2>
+                                    <p class="item-intro text-muted">Diseño y construccion de Cocinas modernas.</p>
+                                    <img class="img-fluid d-block mx-auto" src="/images/IMG_1156.jpg" alt="..." />
+                                    <p>La clave de una cocina moderna es su diseño, con líneas simples y composiciones regulares.
+                                         De esta forma, se gana amplitud y se evita el recargo de elementos, a veces, innecesarios. 
+                                         Así, puedes conseguir una cocina más minimalista y con una mayor sensación de armonía</p>
                                     <ul class="list-inline">
                                         <li>
-                                            <strong>Client:</strong>
-                                            Threads
-                                        </li>
-                                        <li>
-                                            <strong>Category:</strong>
-                                            Illustration
+                                            <strong>Caterogia:</strong>
+                                            Cocinas
                                         </li>
                                     </ul>
                                     <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
                                         <i class="fas fa-xmark me-1"></i>
-                                        Close Project
+                                        Cerrar
                                     </button>
                                 </div>
                             </div>
@@ -435,23 +428,21 @@
                             <div class="col-lg-8">
                                 <div class="modal-body">
                                     <!-- Project details-->
-                                    <h2 class="text-uppercase">Project Name</h2>
-                                    <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                                    <img class="img-fluid d-block mx-auto" src="../../../../resources/img/portfolio/portafolio2.jpg" alt="..." />
-                                    <p>descripcion</p>
+                                    <h2 class="text-uppercase">Espacios de entretenimiento</h2>
+                                    <p class="item-intro text-muted">Diseño y construccion de areas recreativas.</p>
+                                    <img class="img-fluid d-block mx-auto" src="/images/IMG_0529.jpg" alt="..." />
+                                    <p>La función principal de este tipo de muebles es alojar una televisión, el mueble puede tener una misión que no sólo se enfoque en eso. 
+                                        Por ello, es indispensable determinar cuál será su uso; de eso dependerá su forma, tamaño e incluso ubicación.Hay materiales más adecuados para darle estructura a un mueble para TV pero francamente, 
+                                        existe una amplia variedad impresionante de materia prima, y es que del material se desprende mucho del estilo que se pretende tenga el interior del hogar.</p>
                                     <ul class="list-inline">
                                         <li>
-                                            <strong>Client:</strong>
-                                            Explore
-                                        </li>
-                                        <li>
-                                            <strong>Category:</strong>
-                                            Graphic Design
+                                            <strong>Categoria:</strong>
+                                            Diseño de areas recreativas
                                         </li>
                                     </ul>
                                     <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
                                         <i class="fas fa-xmark me-1"></i>
-                                        Close Project
+                                        Cerrar
                                     </button>
                                 </div>
                             </div>
@@ -470,23 +461,24 @@
                             <div class="col-lg-8">
                                 <div class="modal-body">
                                     <!-- Project details-->
-                                    <h2 class="text-uppercase">Project Name</h2>
-                                    <p class="item-intro text-muted">Lsdfjosdfjosdfjopsdfjopsfd.</p>
-                                    <img class="img-fluid d-block mx-auto" src="/images/IMG_1156.jpg" alt="..." />
-                                    <p>Descripcion </p>
+                                    <h2 class="text-uppercase">Recamaras</h2>
+                                    <p class="item-intro text-muted">Diseño de interiores.</p>
+                                    <img class="img-fluid d-block mx-auto" src="/images/cama.jpg" alt="..." />
+                                    <p>Entre las zonas privadas de la casa, los dormitorios son los protagonistas. 
+                                        Estos espacios son los que destinamos a descansar y donde reflejamos de alguna forma nuestra personalidad, 
+                                        por lo que su decoración, sin importar el estilo o tendencia, queda siempre supeditada a los gustos de su usuario final. 
+                                        Es importante tener en cuenta que por tratarse de un espacio destinado al descanso y a la relajación, 
+                                        se deben cumplir ciertas normas, como la habitabilidad, que consiste en mantener los espacios debidamente iluminados 
+                                        y ventilados hacia el exterior o a través de patios. </p>
                                     <ul class="list-inline">
                                         <li>
-                                            <strong>Client:</strong>
-                                            asfdasdffsdfsdfasfasf
-                                        </li>
-                                        <li>
-                                            <strong>Category:</strong>
-                                            Identity
+                                            <strong>Categoria:</strong>
+                                            Diseño de interiores.
                                         </li>
                                     </ul>
                                     <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
                                         <i class="fas fa-xmark me-1"></i>
-                                        Close Project
+                                        Cerrar
                                     </button>
                                 </div>
                             </div>
@@ -505,23 +497,24 @@
                             <div class="col-lg-8">
                                 <div class="modal-body">
                                     <!-- Project details-->
-                                    <h2 class="text-uppercase">Project Name</h2>
-                                    <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                                    <h2 class="text-uppercase">Tejados</h2>
+                                    <p class="item-intro text-muted">Al Aire libre.</p>
                                     <img class="img-fluid d-block mx-auto" src="/images/IMG_1200.jpg" alt="..." />
-                                    <p>Descripcion </p>
+                                    <p>Tener una propiedad con espacio al aire libre es un privilegio que muchos desearían, 
+                                        hacer un uso adecuado de estos espacios y decorarlos de manera que se vuelvan funcionales y agreguen valor a la propiedad 
+                                        y al estilo de vida de los habitantes de la casa no debe ser un aspecto a descuidar.
+                                        Potenciar las posibilidades de estos espacios puede hacer una gran diferencia en la forma en que y 
+                                        frecuencia con que se disfrutan, si el lugar invita a estar cómodo y es funcional, todos querrán estar afuera, 
+                                        para hacer esto posible la decoración es fundamental. </p>
                                     <ul class="list-inline">
                                         <li>
-                                            <strong>Client:</strong>
-                                            Lines
-                                        </li>
-                                        <li>
                                             <strong>Category:</strong>
-                                            Branding
+                                            Al Aire libre
                                         </li>
                                     </ul>
                                     <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
                                         <i class="fas fa-xmark me-1"></i>
-                                        Close Project
+                                        Cerrar
                                     </button>
                                 </div>
                             </div>
@@ -540,23 +533,22 @@
                             <div class="col-lg-8">
                                 <div class="modal-body">
                                     <!-- Project details-->
-                                    <h2 class="text-uppercase">Project Name</h2>
-                                    <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                                    <img class="img-fluid d-block mx-auto" src="/public/IMG_1452.jpg" alt="..." />
-                                    <p>Descripcion</p>
+                                    <h2 class="text-uppercase">Cocinas con islas</h2>
+                                    <p class="item-intro text-muted">Diseño para cocinas.</p>
+                                    <img class="img-fluid d-block mx-auto" src="/images/IMG_1452.jpg" alt="..." />
+                                    <p>¿Qué son las islas de cocina? Son módulos aislados, 
+                                        con cuatro costados libres, que permiten una configuración muy versátil y práctica. 
+                                        Nos pueden servir como espacio extra para cocinar y almacenar, 
+                                        e incluso para comer y hablar con familiares y amigos.</p>
                                     <ul class="list-inline">
                                         <li>
-                                            <strong>Client:</strong>
-                                            Southwest
-                                        </li>
-                                        <li>
-                                            <strong>Category:</strong>
-                                            Website Design
+                                            <strong>Categoria:</strong>
+                                            Diseño para cocinas
                                         </li>
                                     </ul>
                                     <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
                                         <i class="fas fa-xmark me-1"></i>
-                                        Close Project
+                                        Cerrar
                                     </button>
                                 </div>
                             </div>
@@ -575,23 +567,24 @@
                             <div class="col-lg-8">
                                 <div class="modal-body">
                                     <!-- Project details-->
-                                    <h2 class="text-uppercase">Project Name</h2>
+                                    <h2 class="text-uppercase">Dormitorios compartidos</h2>
                                     <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
                                     <img class="img-fluid d-block mx-auto" src="../../../../resources/img/portfolio/IMG_2261.jpg" alt="..." />
-                                    <p> Descripcion</p>
+                                    <p> Decorar habitaciones compartidas no es una tarea sencilla y 
+                                        hay diferentes elementos que tienes que tener en cuenta como los armarios,
+                                        las camas, la decoración de las paredes…
+                                        Lo más importante es intentar que la habitación tenga un estilo en el que ambos 
+                                        niños se sientan identificados, al final, 
+                                        es un espacio en el que pasarán muchas horas ya sea jugando o haciendo sus deberes.</p>
                                     <ul class="list-inline">
                                         <li>
-                                            <strong>Client:</strong>
-                                            Window
-                                        </li>
-                                        <li>
-                                            <strong>Category:</strong>
-                                            Photography
+                                            <strong>Categoria:</strong>
+                                            Diseño de interiores          
                                         </li>
                                     </ul>
                                     <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
                                         <i class="fas fa-xmark me-1"></i>
-                                        Close Project
+                                        Cerrar
                                     </button>
                                 </div>
                             </div>
